@@ -6,7 +6,7 @@ a Simple Landing Page created with HTML + CSS, contents are about food and resta
 
 ## Application Implementation
 
-### 😎 Application Features
+### 😎 Application Implementation
 ∙ I use media query to make it Responsive with Mobile Screen <br>
 
 
