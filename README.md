@@ -1,5 +1,5 @@
-![foto](https://cdn.discordapp.com/attachments/988735884843184210/1095131049132036106/image.png)
-![foto2](https://cdn.discordapp.com/attachments/988735884843184210/1095131130283429918/image.png)
+
+![Makanan Website](https://github.com/Izan2020/makanan_web/assets/59131023/862efaef-0bdf-4d3c-b796-78918e21306d)
 
 # Makanan Website
 a Simple Landing Page created with HTML + CSS, contents are about food and restaurant stuff
