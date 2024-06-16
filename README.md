@@ -9,9 +9,6 @@ a Simple Landing Page created with HTML + CSS, contents are about food and resta
 ### 😎 Application Implementation
 ∙ I use media query to make it Responsive with Mobile Screen <br>
 
-
-
-
-
+https://izan2020.github.io/makanan_web/
 
 
