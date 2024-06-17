@@ -1,6 +1,8 @@
 
 ![Makanan Website](https://github.com/Izan2020/makanan_web/assets/59131023/862efaef-0bdf-4d3c-b796-78918e21306d)
 
+[![Technologies](https://skillicons.dev/icons?i=bootstrap,html,css,js)](https://skillicons.dev)
+
 # Makanan Website
 a Simple Landing Page created with HTML + CSS, contents are about food and restaurant stuff
 
